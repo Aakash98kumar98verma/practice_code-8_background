@@ -1,0 +1,37 @@
+h1{
+     background-color: aquamarine;
+}
+.one{
+     background-color: rgb(221, 221, 195);
+}
+#red{
+     background-color: red;
+}
+
+.ten{
+     background-color: rgba(255, 74, 3, 0.1);
+}
+.thirtey{
+     background-color: rgba(255, 74, 3, 0.3);
+}
+.sixty{
+     background-color: rgba(255, 74, 3, 0.6);
+}
+.eithty{
+     background-color: rgba(255, 74, 3, 0.8);
+}
+.hundred{
+     background-color: rgba(255, 74, 3, 1.0);
+}
+.img{
+     background-image: url("./img.png");
+     background-size: contain;
+     color: antiquewhite;
+}
+#image{
+     background-image: url("./img.png");
+     background-repeat: no-repeat;
+     background-size: contain;
+     background-position: center right;
+     background-color: antiquewhite;
+}
